@@ -1,0 +1,4 @@
+name: NoteBlockTool
+version: '${project.version}'
+main: net.brunogamer.noteblocktool.NoteBlockTool
+api-version: 1.18
